@@ -1,3 +1,7 @@
+body{
+    font-family:'Roboto',sans-serif;
+}
+
 .hero,
 .footer {
     background-color: #1f2937;
@@ -5,6 +9,7 @@
 
 .main-text {
     font-size: 48px;
-    font-weight: extra-bold;
+    font-weight: 800;
     color: #f9faf8;
 }
+
