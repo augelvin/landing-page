@@ -63,3 +63,8 @@ ul {
 li {
     padding: 0 16px;
 }
+
+.intro {
+    display: flex;
+    align-items: center;
+}
