@@ -67,8 +67,17 @@ li {
 .intro {
     display: flex;
     align-items: center;
+    justify-content: center;
+    column-gap: 32px;
+    padding: 48px 64px;
 }
 
 #profile {
     height: 400px;
+}
+
+.intro-content {
+    width: 500px;
+    flex-wrap: warp;
+    flex: 1;
 }
