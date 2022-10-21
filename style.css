@@ -45,3 +45,8 @@ button,
     font-style: italic;
     color: #1f2937
 }
+
+ul {
+    list-style-type: none;
+    display: flex;
+}
