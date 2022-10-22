@@ -87,3 +87,16 @@ button {
     font-size: 18px;
     font-weight: bold;
 }
+
+.call-to-action-content {
+    color: #f9faf8;
+}
+
+.call-to-action-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.call-to-action-text {
+    font-size: 18px;
+}
