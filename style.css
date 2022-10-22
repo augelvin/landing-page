@@ -111,10 +111,15 @@ button {
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 50px;
 }
 
 .card-container {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.card {
+    margin: 24px;
 }
