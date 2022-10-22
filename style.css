@@ -122,4 +122,8 @@ button {
 
 .card {
     margin: 24px;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    row-gap: 12px;
 }
