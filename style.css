@@ -81,3 +81,9 @@ li {
     flex-wrap: warp;
     flex: 1;
 }
+
+button {
+    color: #f9faf8;
+    font-size: 18px;
+    font-weight: bold;
+}
