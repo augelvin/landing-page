@@ -141,3 +141,19 @@ button {
     margin: 8px;
     text-align: center;
 }
+
+.quote {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 0 5rem;
+    row-gap: 12px;
+}
+
+.writer{
+    align-self: flex-end;
+    font-size: 24px;
+    font-weight: bold;
+}
