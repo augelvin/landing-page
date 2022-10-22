@@ -78,14 +78,20 @@ li {
 
 .intro-content {
     width: 500px;
-    flex-wrap: warp;
     flex: 1;
+    display: flex;
+    flex-flow: column;
+    row-gap: 16px;
+    align-items: flex-start;
 }
 
 button {
     color: #f9faf8;
     font-size: 18px;
     font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 48px;
 }
 
 .call-to-action-content {
